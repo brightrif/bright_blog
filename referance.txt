@@ -1,0 +1,2 @@
+Auth permission for login required and superuser required
+https://realpython.com/django-view-authorization/
